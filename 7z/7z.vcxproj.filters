@@ -1881,9 +1881,4 @@
       <Filter>Common</Filter>
     </ClInclude>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="Compress\makefile">
-      <Filter>Compress</Filter>
-    </None>
-  </ItemGroup>
 </Project>
