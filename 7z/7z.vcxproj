@@ -627,9 +627,6 @@
     <ClInclude Include="Windows\Thread.h" />
     <ClInclude Include="Windows\TimeUtils.h" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="Compress\makefile" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
